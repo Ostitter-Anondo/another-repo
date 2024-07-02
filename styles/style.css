@@ -1,0 +1,11 @@
+div{
+    background-color: lightsalmon;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.headline{
+    display: inline-block;
+    background-color: lightpink;
+    border-radius: 10px;
+}
