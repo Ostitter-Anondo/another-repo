@@ -8,10 +8,24 @@ div{
     box-shadow: 5px 5px 10px salmon;
     text-align: justify;
 }
+#hehe{
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    box-shadow: none;
+    background-color: white;
+}
 .headline{
     display: inline-block;
     background-color: lightpink;
     border-radius: 10px;
+}
+.butt{
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid deepskyblue;
+    border-radius: 20px;
 }
 #funny{
     display: block;
